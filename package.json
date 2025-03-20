@@ -2,7 +2,7 @@
   "name": "ms-starwars",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "develop": "nodemon server.js",
@@ -19,11 +19,11 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "flat-cache": "^2.0.1",
-    "mocha": "^6.2.2",
-    "nodemon": "^1.19.4",
+    "mocha": "^11.1.0",
+    "nodemon": "^3.1.9",
     "prettier": "^1.18.2",
     "request": "^2.88.0",
-    "request-promise": "^4.2.4",
+    "request-promise": "^4.2.6",
     "sinon": "^7.5.0"
   }
 }
